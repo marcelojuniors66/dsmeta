@@ -22,8 +22,14 @@ A aplicação consiste em uma lista de vendas, onde os dados são consultados/fi
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
-- React Hooks
+## Integrações
+- React Hooks useEffect e useState
 - DatePicker
+- Database seed
+- Listagem de dados
+- Integração com SMS
+- API REST
+- requisições axios
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
